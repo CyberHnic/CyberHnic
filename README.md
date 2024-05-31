@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberHnic
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science and Python
+- 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me....
 
