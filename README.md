@@ -4,7 +4,7 @@
 
 I’m based in Switzerland and transitioning into IT, networking and cybersecurity. My homelab is where I turn study into practical work: building networks, diagnosing faults, automating backups and verifying that services recover after changes.
 
-## My flagship project: HNIC Homelab
+# My flagship project: [HNIC Homelab](https://github.com/CyberHnic/Hnic-Homelab)
 
 An evolving environment built with OPNsense, managed switching, wireless VLANs, Debian storage, Raspberry Pi monitoring, Proxmox and Windows/Linux virtual machines.
 
