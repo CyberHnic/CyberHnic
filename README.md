@@ -1,48 +1,43 @@
+# Fortune Kuzwayo | CyberHnic
 
+### Networking • Linux • IT Support • Cybersecurity
 
-it-support-portfolio-fortune/
-├─ README.md
-├─ windows-labs/
-│  ├─ user-management/
-│  ├─ event-viewer-examples/
-│  └─ backup-and-restore/
-├─ linux-labs/
-│  ├─ users-and-permissions/
-│  ├─ backup-scripts/
-│  └─ log-review/
-├─ networking-labs/
-│  ├─ ping-traceroute-dns/
-│  ├─ subnetting-exercises/
-│  └─ wireshark-notes/   (optional)
-├─ ticketing-labs/
-│  ├─ spiceworks-tickets/
-│  └─ incident-writeups/
-├─ cloud-labs/
-│  ├─ gcp-vm-setup/
-│  └─ hardening-checklist/
-└─ sops-and-docs/
-   ├─ network-troubleshooting-sop.md
-   ├─ windows-troubleshooting-sop.md
-   └─ linux-troubleshooting-sop.md
+I’m based in Switzerland and transitioning into IT, networking and cybersecurity. My homelab is where I turn study into practical work: building networks, diagnosing faults, automating backups and verifying that services recover after changes.
 
-Example README.md content:
+## My flagship project: HNIC Homelab
 
-# IT Support Portfolio – Fortune Kuzwayo
+An evolving environment built with OPNsense, managed switching, wireless VLANs, Debian storage, Raspberry Pi monitoring, Proxmox and Windows/Linux virtual machines.
 
-This repository showcases my hands-on IT Support skills, built through home labs, the Google IT Support Professional Certificate, and independent study.
+| Project | Work completed | Skills demonstrated |
+| --- | --- | --- |
+| Network segmentation | LAN, Guest and Lab VLAN configuration and connectivity troubleshooting | Switching, addressing, firewall rules, DNS |
+| ProtonVPN routing | Restored policy routing and checked VPN egress after a reboot | Routing, NAT, packet inspection, fault diagnosis |
+| Remote access | WireGuard phone connectivity and access to home services | VPN configuration and connectivity validation |
+| Storage and backups | Debian SMB storage with scheduled rsync backups | Linux administration, permissions, systemd |
+| Monitoring | Uptime Kuma, Monit and SMART checks | Service monitoring and troubleshooting |
+| VM integration | Windows and Ubuntu SSH, local DNS and shared storage | Cross-platform administration |
 
-## Contents
+The portfolio write-ups explain the problem, implementation, validation and lessons learned. I’m building the documentation alongside the lab.
 
-- Windows Labs – user management, Event Viewer, backup and restore.
-- Linux Labs – file permissions, user administration, backup scripts, log review.
-- Networking Labs – ping, traceroute, DNS tools, subnetting practice.
-- Ticketing Labs – simulated tickets and incident reports using Spiceworks.
-- Cloud Labs – Google Cloud VM deployment and basic hardening.
-- SOPs & Documentation – step-by-step procedures for common support issues.
+## Tools I use
 
-Each folder contains Markdown documentation plus any scripts, command logs, or screenshots needed to understand the lab.
+**Networking:** OPNsense, VLANs, WireGuard, managed switches, tcpdump, Nmap, dig, traceroute  
+**Systems:** Debian, Ubuntu, Windows, Raspberry Pi, Proxmox, Parallels  
+**Operations:** Docker Compose, Uptime Kuma, Monit, SMART, rsync, systemd, SSH, SMB
 
-## How to Use
+## Learning and next steps
 
-- Recruiters/Hiring Managers: Browse the folders to see examples of my troubleshooting approach, documentation style, and technical skills.
-- Other learners: Feel free to use this as inspiration for your own IT Support portfolio.
+- Completed Google IT Support coursework.
+- Studying for CCNA through structured review and practical networking labs.
+- Developing Linux, Windows and security troubleshooting skills.
+- Improving project documentation and collecting reproducible validation evidence.
+
+## About me
+
+I bring a mechanical and technical background, experience with SAP/ERP and a practical approach to solving problems. Outside IT, I coach junior football with SFV D-Diplom and Jugend+Sport qualifications.
+
+**Languages:** English, German and Swiss German.
+
+---
+
+This portfolio reflects hands-on learning. Certifications in progress are described as study goals.
